@@ -42,7 +42,7 @@ A student-developed full-stack platform designed to centralize international opp
 
 A student-led full-stack platform exploring how student clubs, activities, volunteering, events, and campus engagement can be brought together into one centralized digital experience.
 
-### 🤖 Enterprise AI Demo
+### 🤖 [Enterprise AI Demo](https://github.com/BanTarawneh/smart-context-showcase)
 **Developed during my internship at Smart Context**
 
 Worked with a teammate to design and develop a functional enterprise AI demo exploring how **contextual information and AI-assisted experiences** can support complex, information-heavy workflows.
