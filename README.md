@@ -65,7 +65,7 @@ Completed multiple internship periods working on modern web development and coll
 
 ## 🏆 Achievements & Recognition
 
-- 🥈 **2nd Place — JOIN FinTech Rally 2026**
+- 🥇 **1st Place — JOIN FinTech Rally 2026**
 - 🏅 **Best Achiever — German Jordanian University, 2025**
 - 🥈 **2nd Place — Business Idea, JOIN FinTech Rally 2025**
 - 🥈 **2nd Place — Technical Implementation, JOIN FinTech Rally 2025**
