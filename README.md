@@ -22,22 +22,22 @@ I enjoy working at the intersection of **technology, product, and impact** — t
 
 ## 💻 Featured Projects
 
-### 💰 Beynatna | بيناتنا
+### 💰 [Beynatna | بيناتنا](https://github.com/Beynatna)
 **Family Financial Literacy Platform**
 
 A family-centered financial platform designed to make financial literacy more practical, collaborative, and accessible.
 
-### 🧬 FinTwin
+### 🧬 [FinTwin](https://github.com/FinTwinByFintier)
 **Financial Digital Twin for SMEs**
 
 A financial digital twin platform exploring how financial and business data can be transformed into a dynamic representation of an SME's financial health.
 
-### 🌍 GJU Global
+### 🌍 [GJU Global](https://github.com/GJU-Global)
 **International Student Experience Platform**
 
 A student-developed full-stack platform designed to centralize international opportunities, exchange preparation, resources, and student experiences for GJU students.
 
-### 👥 GJU Clubs Portal
+### 👥 [GJU Clubs Portal](https://github.com/GJU-Clubs)
 **Student Clubs & Campus Engagement Platform**
 
 A student-led full-stack platform exploring how student clubs, activities, volunteering, events, and campus engagement can be brought together into one centralized digital experience.
